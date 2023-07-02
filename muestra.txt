@@ -1,4 +1,4 @@
 Esta es una muestra de git
 que estoy realizando
 
-Aprendiendo git
+Aprendiendo git en Platzi
