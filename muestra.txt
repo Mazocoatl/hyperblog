@@ -2,3 +2,5 @@ Esta es una muestra de git
 que estoy realizando
 
 Aprendiendo git en Platzi
+
+ahora se inicia el proyecto de html y css
