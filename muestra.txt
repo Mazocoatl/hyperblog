@@ -3,4 +3,6 @@ que estoy realizando
 
 Aprendiendo git en Platzi
 
-ahora se inicia el proyecto de html y css
+ahora se inicia el proyecto de html y css, fácil de hacer (espero).
+
+Todo estará bien.
